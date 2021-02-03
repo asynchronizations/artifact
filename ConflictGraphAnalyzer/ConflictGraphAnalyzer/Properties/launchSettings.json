@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConflictGraphAnalyzer": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\beillahi\\Documents\\Github\\async-benchmark\\ConflictGraphAnalyzer\\Resources\\SyntacticBenchmark-2\\SyntacticBenchmark-2.sln 0"
+    }
+  }
+}
