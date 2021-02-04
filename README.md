@@ -29,7 +29,7 @@ To run ConflictGraphAnalyzer with ```SyntacticBenchmark-1``` run:
 $ .\ConflictGraphAnalyzer\ConflictGraphAnalyzer\bin\Debug\net472\ConflictGraphAnalyzer.exe ./Resources/SyntacticBenchmark-1/SyntacticBenchmark-1.sln 0
 ```
 
-The last argument ConflictGraphAnalyzer (i.e., 0) is the project identifier that contains the input program in the VS solution. 
+The last argument to ConflictGraphAnalyzer (i.e., 0) is the project identifier, which contains the input program, in the VS solution. 
 
 The expected output of the above command is: 
 
