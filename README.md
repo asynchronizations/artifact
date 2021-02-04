@@ -15,7 +15,7 @@ $ dotnet build ConflictGraphAnalyzer/ConflictGraphAnalyzer.sln
 ```
 
 The compiled ConflictGraphAnalyzer binary is
-`ConflictGraphAnalyzer/bin/${CONFIGURATION}/${FRAMEWORK}/ConflictGraphAnalyzer.exe`.
+`ConflictGraphAnalyzer/ConflictGraphAnalyzer/bin/${CONFIGURATION}/${FRAMEWORK}/ConflictGraphAnalyzer.exe`.
 
 ## Benchmark 
 
