@@ -1,6 +1,6 @@
 # ConflictGraphAnalyzer
 
-A prototype tool that takes as input a possibly asynchronous program. It enumerates all sound asynchronizations (data race free) of the given program. 
+A prototype tool that takes as input a possibly asynchronous program. It enumerates all sound asynchronizations (data races free) of the given program. 
 
 ## Dependencies
 
@@ -23,7 +23,7 @@ Each sub-directory ```Y``` of the ```Resources``` directory contains the files o
 
 ## Testing 
 
-To run ConflictGraphAnalyzer with ```SyntacticBenchmark-1``` run: 
+To run ConflictGraphAnalyzer with ```SyntacticBenchmark-1``` program run: 
 
 ```
 $ .\ConflictGraphAnalyzer\ConflictGraphAnalyzer\bin\Debug\net472\ConflictGraphAnalyzer.exe ./Resources/SyntacticBenchmark-1/SyntacticBenchmark-1.sln 0
