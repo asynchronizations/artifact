@@ -40,4 +40,4 @@ The properties are: '{"nbMethods":3,"nbInvocations":6,"nbAsyncInvocations":5,"nb
 ===============================
 ```
 
-Note that the runtime may differ from a machine to a machine. 
+Note that the runtime (in millisecond) may differ from a machine to a machine. 
