@@ -23,10 +23,10 @@ Each sub-directory ```Y``` of the ```Resources``` directory contains the files o
 
 ## Testing 
 
-To run ConflictGraphAnalyzer with ```SyntacticBenchmark-1``` program run: 
+To run ConflictGraphAnalyzer with ```SyntheticBenchmark-1``` program run: 
 
 ```
-$ .\ConflictGraphAnalyzer\ConflictGraphAnalyzer\bin\Debug\net472\ConflictGraphAnalyzer.exe ./Resources/SyntacticBenchmark-1/SyntacticBenchmark-1.sln 0
+$ .\ConflictGraphAnalyzer\ConflictGraphAnalyzer\bin\Debug\net472\ConflictGraphAnalyzer.exe ./Resources/SyntheticBenchmark-1/SyntheticBenchmark-1.sln 0
 ```
 
 The last argument to ConflictGraphAnalyzer (i.e., 0) is the project identifier, which contains the input program, in the VS solution. 
