@@ -105,7 +105,9 @@ namespace Voat
             Domain.Models.UserPreference lpreferences;
             lpreferences = await taskPreferences;
 
-            var newPreferences = new Domain.Models.UserPreferenceUpdate();
+            UserPreferenceUpdate newPreferences;
+            newPreferences = new Domain.Models.UserPreferenceUpdate();
+
             Domain.Models.UserPreference preferences;
             preferences = lpreferences;
             newPreferences.NightMode = !preferences.NightMode;
